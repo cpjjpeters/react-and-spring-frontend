@@ -18,6 +18,7 @@ function App () {
         <img src={logo} className="App-logo" alt="logo"/>
         <h1 className="App-title">{message}</h1>
         </header>
+        <p>this is a paragraph</p>
         <p className="App-intro">
         To get started, edit <code>src/App.js</code> and save to reload.
     </p>
